@@ -1,4 +1,4 @@
-package com.spirng.jms.config;
+package com.spring.jms.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

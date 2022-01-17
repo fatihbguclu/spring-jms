@@ -1,4 +1,4 @@
-package com.spirng.jms.model;
+package com.spring.jms.model;
 
 
 import lombok.AllArgsConstructor;
